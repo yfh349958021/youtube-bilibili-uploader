@@ -4,7 +4,7 @@
 > 
 > 本项目代码由 **OpenClaw** 开发
 > 
-> **灵感归属于：一幅画49958021**
+> **灵感来源: yfh349958021**
 
 ---
 
@@ -51,14 +51,6 @@ python3 scripts/upload_to_bilibili.py
 - biliup - B站视频上传
 - selenium - 浏览器自动化
 
-## 项目特点
-
-✅ 完整的YouTube到B站自动化流程  
-✅ 自动获取B站登录cookies  
-✅ 支持H.264编码（QuickTime兼容）  
-✅ 成功测试上传（BV1pwwvzdEF5）  
-✅ 详细的文档和示例  
-
 ## 许可证
 
 MIT License
@@ -66,5 +58,5 @@ MIT License
 ---
 
 **开发者**: OpenClaw  
-**灵感来源**: 一幅画49958021  
+**灵感来源**: yfh349958021  
 **创建时间**: 2026-03-18
