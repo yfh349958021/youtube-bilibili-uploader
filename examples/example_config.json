@@ -1,0 +1,20 @@
+{
+  "youtube": {
+    "channel": "dotacinema",
+    "cookies_file": "/path/to/youtube_cookies.txt",
+    "download_dir": "./downloads",
+    "format": "137+140",
+    "merge_format": "mp4"
+  },
+  "bilibili": {
+    "cookies_file": "./cookies.json",
+    "default_tid": 171,
+    "default_copyright": 2,
+    "tags": ["DOTA2", "游戏", "电子竞技"]
+  },
+  "upload_info": {
+    "title": "[Dota2] {video_title}",
+    "description": "转自DotaCinema频道\n视频原名: {original_title}",
+    "source": "{youtube_url}"
+  }
+}
